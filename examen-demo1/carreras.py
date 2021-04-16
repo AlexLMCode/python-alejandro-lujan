@@ -1,12 +1,12 @@
-opcion = input('Ingrese un numero entre 1 y 4')
+opcion = input('Ingrese un numero entre 1 y 4: ')
 
-if opcion == 1:
+if opcion == '1':
     print('LSCA')
-elif opcion == 2:
+elif opcion == '2':
     print('IS')
-elif opcion == 3:
+elif opcion == '3':
     print('LAE')
-elif opcion == 4:
+elif opcion == '4':
     print('CONTA')
 else:
     print('ERROR')
