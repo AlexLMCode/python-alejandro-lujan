@@ -1,0 +1,30 @@
+Crear en tu repositorio de clases, la carpeta examen-demo1
+$ mkdir examen-demo1
+$ cd examen-demo1
+Resolver los siguientes ejercicios
+
+1.- programa datos.py, que muestre la siguiente salida:
+
+   Mi nombre
+   Mi Matricula
+   Mi Carrera
+
+2.- programa carreras.py, que permita al usuario ingresar un numero [1..4]
+    imprimir LSCA si ingreso 1,
+             IS si ingreso 2,
+             LAE si ingreso 3,
+             CONTA si ingreso 4,
+    ERROR en cualquier otro caso.
+
+3.- programa listas.py, crear una lista con los nombre completos de cada carrera
+de tu campus, imprimir la lista y su longitud
+
+4.- programa mydict.py, crear un dictionario con la siguiente informacion
+    
+    LSCA =  Lic en sistemas computacionales adminitrativos
+    IS   =  Ingenieria de software
+    LAE  =  Lic en Administracion de empresas
+
+    Imprimir dicionario y su longitud
+
+5.- subir a tu repositorio
