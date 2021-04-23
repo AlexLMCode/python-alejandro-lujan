@@ -1,0 +1,39 @@
+Crear en tu repositorio de clases, la carpeta examen-parcial1
+$ mkdir examen-parcial1
+$ cd examen-parcial1
+Resolver los siguientes ejercicios
+
+1.- programa misdatos.py, que muestre la siguiente salida:
+
+   Mi nombre
+   Mi email
+   Mi face, tweeter, instagram y canal preferido de youtube
+
+2.- programa numeros.py, que permita al usuario ingresar un numero
+    imprimir CERO si ingreso 0,
+             POSITIVO si es mayor a 0,
+             NEGATIVO si menor a 0,
+             
+    ERROR en cualquier otro caso.
+
+3.- programa listas.py, crear una con las letras del abecedario, imprimir la lista y su longitud
+
+4.- programa tablas.py, que permita capturar un numero positivo
+e imprima su tabla de multiplicar.
+Ejemplo:
+
+n = 5
+5
+10
+15
+..
+50
+
+n=-1
+
+ERROR
+
+NOTA: Validar que solo permita valores positivos
+
+
+5.- subir a tu repositorio
